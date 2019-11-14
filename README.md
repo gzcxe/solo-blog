@@ -10,7 +10,8 @@ gzcxe 的个人博客
 
 ### 最新
 
-* [世界，你好！](http://gzcxe.cn:8080/hello-solo)
+* [我在 GitHub 上的开源项目](https://gzcxe.cn/my-github-repos)
+* [世界，你好！](https://gzcxe.cn/hello-solo)
 
 
 
